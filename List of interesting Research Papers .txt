@@ -1,0 +1,7 @@
+Interesting Research Papers 
+
+
+Framebusting and Clickjacking
+
+ - Busting Frame Busting - A Study of Clickjacking Vulnerabilities on Popular Sites
+ http://seclab.stanford.edu/websec/framebusting/framebust.pdf
